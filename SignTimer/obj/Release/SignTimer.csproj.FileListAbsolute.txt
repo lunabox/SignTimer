@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\SignTimer\SignTimer\bin\Release\SignTimer.exe.config
+C:\Users\Administrator\source\repos\SignTimer\SignTimer\bin\Release\SignTimer.exe
+C:\Users\Administrator\source\repos\SignTimer\SignTimer\bin\Release\SignTimer.pdb
+C:\Users\Administrator\source\repos\SignTimer\SignTimer\obj\Release\SignTimer.FormMain.resources
+C:\Users\Administrator\source\repos\SignTimer\SignTimer\obj\Release\SignTimer.Properties.Resources.resources
+C:\Users\Administrator\source\repos\SignTimer\SignTimer\obj\Release\SignTimer.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\SignTimer\SignTimer\obj\Release\SignTimer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SignTimer\SignTimer\obj\Release\SignTimer.exe
+C:\Users\Administrator\source\repos\SignTimer\SignTimer\obj\Release\SignTimer.pdb
